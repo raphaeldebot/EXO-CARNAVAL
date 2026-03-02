@@ -153,3 +153,20 @@ nav a {
     font-weight:bold;
     cursor:pointer;
 }
+
+.box-carnaval{
+    position: relative;
+    height: 300px;
+}
+
+.box-carnaval p{
+    float: left;
+}
+figure {
+    float: right;
+    width: 300px;
+}
+
+figure img{
+    width: 280px;
+}
